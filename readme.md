@@ -2,7 +2,7 @@
 
 
 ##To build the example locally, run:
-<pre><code>bundle install
+<pre><code>composer install
 npm install
 npm run dev
 npm run build
