@@ -2,6 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 
 var config = {
+  //webpack-dev-server config
   devServer: {
     contentBase: "http://localhost:8000/",
     noInfo: true,

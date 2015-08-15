@@ -1,7 +1,7 @@
 #  Laravel-Webpack-Sample
 
 
-##To build the example locally, run:
+##To build the example locally, run
 <pre><code>composer install
 npm install
 npm run dev
