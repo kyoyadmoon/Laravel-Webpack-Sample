@@ -4,7 +4,6 @@
 ##To build the example locally, run
 <pre><code>composer install
 npm install
-npm run dev
 npm run build
 npm run dev</code></pre>
 
